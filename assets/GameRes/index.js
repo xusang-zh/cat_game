@@ -1,7 +1,7 @@
-System.register("chunks:///_virtual/GameRes",[],(function(){return{execute:function(){}}}));
+System.register("chunks:///GameRes.js",[],(function(){return{execute:function(){}}}));
 
 (function(r) {
-  r('virtual:///prerequisite-imports/GameRes', 'chunks:///_virtual/GameRes'); 
+  r('virtual:///prerequisite-imports/GameRes', 'chunks:///GameRes.js'); 
 })(function(mid, cid) {
     System.register(mid, [cid], function (_export, _context) {
     return {
