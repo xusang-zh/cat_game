@@ -18,3 +18,4 @@ System.register("chunks:///_virtual/GameRes",[],(function(){return{execute:funct
     };
     });
 });
+//# sourceMappingURL=index.js.map
