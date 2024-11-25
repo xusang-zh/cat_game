@@ -1,7 +1,7 @@
-System.register("chunks:///GameRes.js",[],(function(){return{execute:function(){}}}));
+System.register("chunks:///_virtual/GameRes",[],(function(){return{execute:function(){}}}));
 
 (function(r) {
-  r('virtual:///prerequisite-imports/GameRes', 'chunks:///GameRes.js'); 
+  r('virtual:///prerequisite-imports/GameRes', 'chunks:///_virtual/GameRes'); 
 })(function(mid, cid) {
     System.register(mid, [cid], function (_export, _context) {
     return {
@@ -18,4 +18,3 @@ System.register("chunks:///GameRes.js",[],(function(){return{execute:function(){
     };
     });
 });
-//# sourceMappingURL=index.js.map
