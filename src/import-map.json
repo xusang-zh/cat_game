@@ -1,1 +1,1 @@
-{"imports":{"cc":"./../cocos-js/cc.js"}}
+{"imports":{"virtual:///prerequisite-imports/internal":"chunks:///_virtual/internal","virtual:///prerequisite-imports/main":"chunks:///_virtual/main","virtual:///prerequisite-imports/GameRes":"chunks:///_virtual/GameRes","cc":"./../cocos-js/cc.js"}}
